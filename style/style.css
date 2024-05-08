@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+}
+
+.resume{
+    max-width: 800px;
+    margin: 20px, auto;
+    padding: 20px;
+    border: 1px, solid #ccc;
+    
+
+
+}
+
+.header{
+    text-align: center;
+
+}
+
+.education
+.experience
+.skills{
+    margin-top: 20px;
+    
+}
+
+h1,h2{
+    color:#333;
+}
+
+ul{
+    list-style-type: none;
+    padding: O;
+
+}
+
+li{
+    margin-bottom: 5px;
+}
